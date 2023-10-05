@@ -1,0 +1,1 @@
+cat when used with >> to append whem=n writing to a file
